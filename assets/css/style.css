@@ -1,0 +1,29 @@
+/* css variables  */
+
+:root {
+    --primary-font: "Poppins", sans-serif;
+    --secondary-font: "Abril Fatface", serif;
+    --brand-font: "Cinzel Decorative", serif;
+    --text-color-main: #1E160D; /*deep brown for text*/
+    --text-color-alt: #CA904E;
+    --primary-color: #D7AB7A;
+    --secondary-color: #3B2812;
+}
+
+/* css test  */
+
+body {
+    color: var(--text-color-main);
+    font-family: var(--primary-font);
+    background-color: var(--primary-color);
+}
+
+.column {
+    border: 2px solid black;
+}
+
+#navbar * {
+    background-color: var(--secondary-color);
+    font-family: var(--secondary-font);
+    color: var(--text-color-alt);
+}
