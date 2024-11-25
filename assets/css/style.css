@@ -29,3 +29,7 @@ body {
     font-family: var(--secondary-font);
     color: var(--text-color-alt);
 }
+
+#hero {
+    background-image: url();
+}
