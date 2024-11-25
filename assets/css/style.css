@@ -1,3 +1,13 @@
+/* Asterisk wildcard selector to override default styles added by the browser */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+
 /* css variables  */
 
 :root {
@@ -12,17 +22,15 @@
     --highlight-color: #C7920B;
 }
 
-/* css test  */
+/* general styles */
 
 body {
+    min-height: 100vh;
     color: var(--text-color-main);
     font-family: var(--primary-font);
     background-color: var(--primary-color);
 }
 
-.div {
-    border: 2px solid black;
-}
 
 #navbar * {
     background-color: var(--secondary-color);
@@ -31,5 +39,14 @@ body {
 }
 
 #hero {
-    background-image: url();
+    max-width: 500px;
+}
+
+#welcome {
+    height: 600px;
+    width: 100%;
+    background-image: url(../images/vonecia-carswell-0aMMMUjiiEQ-unsplash.webp) no-repeat center center/cover;
+    background-color: var(--secondary-color);
+    position: relative;
+
 }
