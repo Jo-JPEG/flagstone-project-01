@@ -45,7 +45,7 @@ body {
 #welcome {
     height: 600px;
     width: 100%;
-    background-image: url(../images/vonecia-carswell-0aMMMUjiiEQ-unsplash.webp) no-repeat center center/cover;
+    background-image: url(../images/hero.webp) no-repeat center center/cover;
     background-color: var(--secondary-color);
     position: relative;
 
