@@ -20,6 +20,7 @@
     --secondary-color: #386C5B;
     --pop-color:#83105F;
     --highlight-color: #C7920B;
+    --overlay-color:  rgba(199, 107, 241, 0.7);
 }
 
 /* general styles */
@@ -31,11 +32,34 @@ body {
     background-color: var(--primary-color);
 }
 
+/* Header */
+header {
 
-#navbar * {
+}
+
+header a {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+#navbar {
     background-color: var(--secondary-color);
     font-family: var(--secondary-font);
     color: var(--text-color-alt);
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: 0 2px 2px #3a3a3a;
+    top: 100%;
+}
+
+#logo {
+    max-width: 32px;
+}
+
+#logo-text {
+    font-family: var(--brand-font);
 }
 
 #hero {
@@ -45,8 +69,22 @@ body {
 #welcome {
     height: 600px;
     width: 100%;
-    background-image: url(../images/hero.webp) no-repeat center center/cover;
+    background: url(../images/hero.webp) no-repeat center center/cover;
     background-color: var(--secondary-color);
     position: relative;
 
+}
+
+.overlay {
+        /* Final rgba value sets the opacity so it is semi-transparent */
+        background-color:var(--overlay-color);
+        font-size: 130%;
+        position: absolute;
+        bottom: 30px;
+        width: 80%;
+        min-height: 200px;
+        padding-top: 40px;
+        padding-left: 10px;
+ 
+    
 }
