@@ -20,7 +20,7 @@ body {
     background-color: var(--primary-color);
 }
 
-.column {
+.div {
     border: 2px solid black;
 }
 
