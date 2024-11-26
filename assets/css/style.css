@@ -46,7 +46,7 @@ h3 {
 header {
     display: flex;
     justify-content: space-between;
-    align-items: baseline;
+    align-items: center;
     background-color: var(--dark-header-color);
     font-family: var(--secondary-font);
     color: var(--text-color-alt);
@@ -252,6 +252,11 @@ footer {
             box-shadow: none;
             width: fit-content;
             padding-right: 1rem;
+            max-height: 100px;
+        }
+
+        #header {
+            max-height: 100px;
         }
     
         #menu {
@@ -286,7 +291,7 @@ footer {
         /* Main content */
         main {
             flex: 1 0 auto;
-            margin-top: 45px;
+            margin-top: 90px;
             display: flex;
             flex-direction: column;
         }
