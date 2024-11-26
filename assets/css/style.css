@@ -201,22 +201,27 @@ header a {
 
 footer {
     background-color: var(--pop-color);
+    display: flex;
+    justify-content: space-between;
 }
 
-#contact *{
-    font-family: var(--secondary-font);
+#contact {
     display: flex;
-    text-align: center;
-    font-size: 160%;
-    padding: 20px 0;
+    padding: 10px;
+    margin-left: 6px;
+    flex-direction: column;
 }
 
 #social-networks {
     text-align: center;
     padding: 20px 0;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: flex-end;
     list-style-type: none;
+}
+
+#social-networks li {
+    margin: 5px;
 }
 
 #social-networks i {
