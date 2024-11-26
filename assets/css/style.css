@@ -21,6 +21,7 @@
     --pop-color:#83105F;
     --highlight-color: #C7920B;
     --overlay-color:  rgba(199, 107, 241, 0.7);
+    --overlay-color-soft: rgba(136, 73, 165, 0.26);
 }
 
 /* general styles */
@@ -112,9 +113,9 @@ main {
 
  /* tips  */
 
- #tips-accordion {
-    background-color: var(--primary-color);
+ .carousel-caption {
     color: var(--text-color-main);
+    background-color: var(--overlay-color-soft);
  }
 
  .tip-card {
