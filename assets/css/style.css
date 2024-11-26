@@ -14,14 +14,15 @@
     --primary-font: "Rubik", sans-serif;
     --secondary-font: "Space mono", serif;
     --brand-font: "Silkscreen", serif;
-    --text-color-main: #27091D; /*deep purple for text*/
-    --text-color-alt: #7CBBA6;
-    --primary-color: #83E3C3;
-    --secondary-color: #386C5B;
-    --pop-color:#83105F;
-    --highlight-color: #C7920B;
-    --overlay-color:  rgba(199, 107, 241, 0.7);
-    --overlay-color-soft: rgba(136, 73, 165, 0.26);
+    --text-color-main: #1D201F;
+    --text-color-alt: #ffffff;
+    --primary-color: #EAD2AC;
+    --secondary-color: #4381C1;
+    --pop-color:#240115;
+    --highlight-color: #C58882;
+    --dark-header-color: #1D201F;
+    --overlay-color:  rgba(197, 136, 130, 0.7);
+    --overlay-color-soft: rgba(223, 146, 142, 0.2);
 }
 
 /* general styles */
@@ -46,7 +47,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-    background-color: var(--secondary-color);
+    background-color: var(--dark-header-color);
     font-family: var(--secondary-font);
     color: var(--text-color-alt);
     width: 100%;
@@ -57,7 +58,7 @@ header {
 /* Navbar styles with dropdown toggle */
 nav {
     position: absolute;
-    background-color: var(--secondary-color);
+    background-color: var(--dark-header-color);
     width: 100%;
     left: 0;
     padding: 0 1rem;
@@ -189,6 +190,7 @@ header a {
     font-family: var(--brand-font);
     color: var(--pop-color);
     font-size: 1.3rem;
+    text-transform: uppercase;
 }
 
 #hero-text p {
@@ -210,6 +212,7 @@ footer {
     padding: 10px;
     margin-left: 6px;
     flex-direction: column;
+    color: var(--text-color-alt);
 }
 
 #social-networks {
@@ -227,7 +230,7 @@ footer {
 #social-networks i {
     font-size: 160%;
     padding: 5%;
-    color: var(--text-color-main);
+    color: var(--text-color-alt);
 }
 
 #social-networks i:hover, i:active {
