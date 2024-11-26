@@ -253,4 +253,26 @@ footer {
         .nav-toggle-label {
             display: none;
         }
+
+        /* Main content */
+        main {
+            flex: 1 0 auto;
+            margin-top: 45px;
+            display: flex;
+            flex-direction: column;
+        }
+
+        #key-tips {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+        }
+
+        .info {
+            max-width: 600px;
+        }
+
+        #about .btn {
+            width: 300px;
+        }
   }
