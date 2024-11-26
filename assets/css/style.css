@@ -82,7 +82,7 @@ main {
     /* Enlarge main element to push footer down*/
     flex: 1 0 auto;
     /* Add margin at the top to prevent content from being covered by the header */
-    margin-top: 60px;
+    margin-top: 45px;
     /* Enable flex properties for child elements */
     display: flex;
     flex-direction: column;
@@ -100,7 +100,6 @@ main {
     flex-direction: column;
     max-width: 600px;
     color: black;
-    font-size: 160%;
  }
 
 
@@ -181,17 +180,20 @@ header a {
         width: 80%;
         height: 90%;
         min-height: 200px;
-        padding-top: 60px;
+        padding-top: 20px;
         padding-left: 10px;
 }
 
 #hero-text h1 {
     font-family: var(--brand-font);
     color: var(--pop-color);
+    font-size: 1.3rem;
 }
 
 #hero-text p {
     font-family: var(--secondary-font);
+    font-size: 1rem;
+    padding: 3px;
 }
 
 /* Footer */
