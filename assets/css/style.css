@@ -84,13 +84,26 @@ main {
 
  /* key concepts  */
 
-.left {
-    justify-content: flex-start;
+
+
+ #key-concepts>a {
+    margin: 5px;
+    padding: 5px;
+    background-color: var(--secondary-color);
+    display: flex;
+    flex-direction: column;
+    max-width: 600px;
+    color: black;
+    font-size: 160%;
+ }
+
+
+.info {
+    /* background-color: var(--overlay-color); */
+    padding: 5px;
+    margin: 5px;
 }
 
-.right {
-    justify-content: flex-end;
-}
 
  /* tips  */
 
