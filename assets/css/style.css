@@ -126,6 +126,18 @@ main {
     border-radius: 5%;
  }
 
+ /* resources  */
+#resources {
+    display: flex;
+    flex-direction: column;
+}
+
+ #resources .btn-info {
+    background-color: var(--secondary-color);
+    border-color: var(--secondary-color);
+    margin: 5px;
+    max-width: 500px;
+ }
 
 /* header section  */
 
