@@ -6,7 +6,8 @@ This proposed website aims to provide an overview of concepts important to promo
 ## Contents
 
  * [User Stories](#user-stories)
-
+ * [Wireframes](#wireframes)
+ * [Credits](#credits)
 
 ### **User Stories**
 
@@ -29,10 +30,10 @@ Easy to find sections and well-organised information (must-have)
 Acceptance Criteria
 - The website contains a section of tips for fostering an inclusive environment 
 - The website contains a resources section with external links.
--The sections are linked in the navbar and contain buttons to expand sections depending on the reader’s interest. 
+- The sections are linked in the navbar and contain buttons to expand sections depending on the reader’s interest. 
 Tasks
 - Create tips section with collapsible section allowing user to click button to read more
--Create a resources section with links to outside websites. Correctly links with aria labels
+- Create a resources section with links to outside websites. Correctly links with aria labels
 
 
 #### User Story 3: 
@@ -44,8 +45,8 @@ Acceptance Criteria
 - The site can be navigated by screen readers and the text is readable and high-contrast
 Tasks
 - Ensure all images are correctly described using alt-text
--Make HTML code as semantic as possible
--Check code with external resources such as Lighthouse
+- Make HTML code as semantic as possible
+- Check code with external resources such as Lighthouse
 
 
 #### User Story 4:
@@ -57,7 +58,7 @@ Acceptance Criteria
 - The site is responsive and changes layout for larger screens
 Tasks
 - Create initial design for mobile devices
--Create media queries to respond to larger screen sizes. 
+- Create media queries to respond to larger screen sizes. 
 
 #### User Story 5: 
 As a curious individual, I want to read real-life success stories of diversity and inclusion initiatives, so I can see the positive impact these practices can have.
@@ -66,9 +67,9 @@ Acceptance Criteria
 - The website has additional pages of content linked with the navbar 
 
 Tasks
-- add additional html pages
--ensure styling is consistent and all links work correctly
--add placeholder content of stories and pictures
+- Add additional html pages
+- Ensure styling is consistent and all links work correctly
+- Add placeholder content of stories and pictures
 
 
 #### User Story 6: 
@@ -81,6 +82,16 @@ Acceptance Criteria
 - The submission form leads to a page indicating success 
 Tasks
 - Create form
--Ensure all input fields are correctly labelled and formatted
--create success page on successful entry of data  
+- Ensure all input fields are correctly labelled and formatted
+- create success page on successful entry of data  
+
+## wireframes
+
+
+
+## Credits  
+
+The initial logo, welcome text, key concept definitions, and inclusivity tips were generated with Copilot.
+
+The hero image is a photo by [Vonecia Carswell](https://unsplash.com/@voneciacarswell?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/four-person-holding-each-others-waist-at-daytime-0aMMMUjiiEQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) 
 
