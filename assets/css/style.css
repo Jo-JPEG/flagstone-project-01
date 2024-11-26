@@ -92,6 +92,19 @@ main {
     justify-content: flex-end;
 }
 
+ /* tips  */
+
+ #tips-accordion {
+    background-color: var(--primary-color);
+    color: var(--text-color-main);
+ }
+
+ .tip-card {
+    border: 1px;
+    border-color: var(--text-color-main);
+    border-radius: 5%;
+ }
+
 
 /* header section  */
 
