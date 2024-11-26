@@ -82,6 +82,17 @@ main {
     flex-direction: column;
 }
 
+ /* key concepts  */
+
+.left {
+    justify-content: flex-start;
+}
+
+.right {
+    justify-content: flex-end;
+}
+
+
 /* header section  */
 
 header a {
@@ -147,6 +158,14 @@ header a {
 
 footer {
     background-color: var(--pop-color);
+}
+
+#contact *{
+    font-family: var(--secondary-font);
+    display: flex;
+    text-align: center;
+    font-size: 160%;
+    padding: 20px 0;
 }
 
 #social-networks {
