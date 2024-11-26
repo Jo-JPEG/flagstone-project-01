@@ -143,6 +143,30 @@ header a {
         padding-left: 10px;
 }
 
+/* Footer */
+
+footer {
+    background-color: var(--pop-color);
+}
+
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    color: var(--text-color-main);
+}
+
+#social-networks i:hover, i:active {
+    color: var(--highlight-color);
+}
+
 
   /* media queries  */
 
