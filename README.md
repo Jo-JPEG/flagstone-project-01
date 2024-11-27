@@ -201,6 +201,8 @@ A media query could be added to the Resources page, giving a more appealing layo
 
 Navbar links could have hover effects added. I would do it now but I don't want to break anything. 
 
+Could add copyright info to footer
+
 
 ## Credits  
 
