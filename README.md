@@ -1,15 +1,28 @@
-## <u>Diverse Universe Project</u>
+# Diverse Universe Project | Joanne Wright
 
-This proposed website aims to provide an overview of concepts important to promoting diversity and inclusion in education and workplaces. The platform will help users easily gain an overview of the Key concepts of diversity, read tips on practical implimentation and easily find external resources to learn further information. The website's primary goal is to provide a comprehensive overview of the topic and help users find reliable information.
+## Code Institute - Portfolio Project 1
 
+### HTML/CSS/Bootstrap Individual Project
+
+![Site example on multiple devices.]()
+
+[Click Here to view the Live Project.](https://jo-jpeg.github.io/flagstone-project-01/)
+
+[Click here to view the Repository.](https://github.com/Jo-JPEG/flagstone-project-01)
 
 ## Contents
-
+ * [The Why](#the-why)
  * [User Stories](#user-stories)
  * [Wireframes](#wireframes)
+ * [Technologies]()
+ * [Testing]()
  * [Credits](#credits)
 
-### **User Stories**
+
+### The Why
+This proposed website aims to provide an overview of concepts important to promoting diversity and inclusion in education and workplaces. The platform will help users easily gain an overview of the Key concepts of diversity, read tips on practical implimentation and easily find external resources to learn further information. The website's primary goal is to provide a comprehensive overview of the topic and help users find reliable information.
+
+### User Stories
 
 #### User Story 1:
 As a new visitor to the website, I want to easily find an introduction to diversity and inclusion, so I can understand the basics and its importance in the workplace or educational environment.
@@ -92,6 +105,19 @@ Wireframe - Homepage Mobile & Tablet
 Wireframe - Homepage Desktop
 ![homepage wireframe - Mobile & Tablet](docs/portfolio01-desktop-wireframe-mvp01.png)
 
+## Technologies
+
+### Languages used:
+
+- [HTML](https://en.wikipedia.org/wiki/HTML5)
+- [CSS](https://en.wikipedia.org/wiki/CSS)
+- [MARKDOWN](https://en.wikipedia.org/wiki/Markdown)
+
+### Other tech used:
+
+- [Bootstrap]()
+- [Copilot]()
+
 ## Credits  
 
 The initial logo, welcome text, key concept definitions, and inclusivity tips were generated with Copilot.
@@ -101,4 +127,6 @@ The hero image is a photo by [Vonecia Carswell](https://unsplash.com/@voneciacar
 The images for the tips carousel are by [fauxels](https://www.pexels.com/@fauxels/) on [Pexels](https://www.pexels.com/)
 
 Images were converted for web using [Compress or Die](https://compress-or-die.com/)
+
+The Favicon was created using [Favicon.io](https://favicon.io/favicon-generator/)
 
