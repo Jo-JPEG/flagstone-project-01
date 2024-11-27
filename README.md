@@ -187,7 +187,9 @@ Aria labels and roles were added to bootstrap buttons in hopes of providing bett
 
 ![Screenshot of second Lighthouse report](/docs/lighthouse02.png)
 
-Lighthouse suggested that improvements could be made regarding performance, this is a potential future improvement.
+Lighthouse suggested that improvements could be made regarding performance the main hero image was compressed futher and replaced.
+
+![Screenshot of third Lighthouse report](/docs/lighthouse03.png)
 
 ## Known bugs
 
