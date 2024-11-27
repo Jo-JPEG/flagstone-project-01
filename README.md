@@ -87,11 +87,18 @@ Tasks
 
 ## wireframes
 
-
+Wireframe - Homepage Mobile & Tablet 
+![homepage wireframe - Mobile & Tablet](docs/portfolio01-mobile-wireframe-mvp01.png)
+Wireframe - Homepage Desktop
+![homepage wireframe - Mobile & Tablet](docs/portfolio01-desktop-wireframe-mvp01.png)
 
 ## Credits  
 
 The initial logo, welcome text, key concept definitions, and inclusivity tips were generated with Copilot.
 
 The hero image is a photo by [Vonecia Carswell](https://unsplash.com/@voneciacarswell?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/four-person-holding-each-others-waist-at-daytime-0aMMMUjiiEQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) 
+
+The images for the tips carousel are by [fauxels](https://www.pexels.com/@fauxels/) on [Pexels](https://www.pexels.com/)
+
+Images were converted for web using [Compress or Die](https://compress-or-die.com/)
 
