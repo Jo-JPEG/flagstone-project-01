@@ -308,7 +308,7 @@ footer {
             flex-direction: column;
         }
 
-        #key-tips {
+        #key-info {
             display: flex;
             flex-direction: row;
             justify-content: space-between;
@@ -320,5 +320,11 @@ footer {
 
         #about .btn {
             width: 300px;
+        }
+
+        #tips {
+            /* min-height: 300px; */
+            display: flex;
+            align-self: center;
         }
   }
