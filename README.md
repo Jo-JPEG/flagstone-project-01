@@ -13,9 +13,11 @@
 ## Contents
  * [The Why](#the-why)
  * [User Stories](#user-stories)
+ * [Design](#design-brief)
  * [Wireframes](#wireframes)
- * [Technologies]()
- * [Testing]()
+ * [Colours](#colours)
+ * [Technologies](#technologies)
+ * [Testing](#testing)
  * [Credits](#credits)
 
 
@@ -98,12 +100,21 @@ Tasks
 - Ensure all input fields are correctly labelled and formatted
 - create success page on successful entry of data  
 
+
+
+## Design-Brief
+A visually appealing, easy-to-navigate webpage that introduces diversity and inclusion concepts and offers basic guidance on how to implement these practices. The focus is on clear communication through effective use of HTML and CSS, utilising Bootstrap for layout and design.
+
 ## wireframes
 
 Wireframe - Homepage Mobile & Tablet 
 ![homepage wireframe - Mobile & Tablet](docs/portfolio01-mobile-wireframe-mvp01.png)
 Wireframe - Homepage Desktop
 ![homepage wireframe - Mobile & Tablet](docs/portfolio01-desktop-wireframe-mvp01.png)
+
+## Colours
+
+[Coolers](docs/Diverse Universe Project.png)
 
 ## Technologies
 
@@ -117,6 +128,8 @@ Wireframe - Homepage Desktop
 
 - [Bootstrap]()
 - [Copilot]()
+
+## testing
 
 ## Credits  
 
