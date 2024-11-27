@@ -146,9 +146,21 @@ For testing multiple resources were used:
 2. [W3 Markup Validation Service](https://validator.w3.org/)
 3. [W3 CSS Validation Service](https://jigsaw.w3.org/css-validator/)
 
+HTML was tested and some initial errors were discovered and corrected.
 ![screenshot of errors](/docs/HTML-errors01.png)
 
+All errors with HTML were addressed.
 ![sreenshot of after errors fixed](/docs/all-better01.png)
+
+Lighthouse testing found significant room for improvement. Accessibility was a particular point of potential improvement.
+
+![Screenshot of initial Lighthouse report](/docs/lighthouse01.png)
+
+aria labels and roles were added to bootstrap buttons in hopes of providing better accessibility.
+
+
+
+
 ## Credits  
 
 The initial logo, welcome text, key concept definitions, and inclusivity tips were generated with Copilot.
