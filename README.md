@@ -16,6 +16,8 @@
  * [Design](#design-brief)
  * [Wireframes](#wireframes)
  * [Colours](#colours)
+ * [Fonts](#fonts)
+ * [Logo](#logo)
  * [Technologies](#technologies)
  * [Testing](#testing)
  * [Credits](#credits)
@@ -139,6 +141,8 @@ After feedback, the logo was then altered manually in Firealpaca to create a tra
 Deployed Logo:
 ![Logo as deployed](/assets/images/logo-textless.png)
 
+With more time, a bespoke, transparent logo could be created. 
+
 ## Technologies
 
 ### Languages used:
@@ -197,4 +201,11 @@ The images for the tips carousel are by [fauxels](https://www.pexels.com/@fauxel
 Images were converted for web using [Compress or Die](https://compress-or-die.com/)
 
 The Favicon was created using [Favicon.io](https://favicon.io/favicon-generator/)
+
+Code for the collapsible nav bar was taken from the Code Institute Love Running Project.
+
+Code for collapsible buttons was taken from Bootstrap documentation. 
+
+Code for the Tips section carousel was taken from Bootstrap via W3Schools.
+
 
