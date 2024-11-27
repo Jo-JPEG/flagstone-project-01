@@ -195,15 +195,23 @@ Lighthouse suggested that improvements could be made regarding performance the m
 
 Social links to not respond to hover on mobile layout. This may be because you can't hover on stuff on a mobile. Futher research needed.
 
+Tips carousel effect on layout extremely janky on large screens. This issue could be fixed in future update with layout modifications and better understanding of scroll mechanic. This could be replaced with javascript or similar in future update.
+
 ## Future Features
 
 In future updates, more content could be added including more links to the Resources page. 
 
-A media query could be added to the Resources page, giving a more appealing layout on large screens. 
+Additional pages could be added, provding examples of inclusivity in action.
 
-Navbar links could have hover effects added. I would do it now but I don't want to break anything. 
+A form for users to sign up for a newsletter could be impemented. 
 
-Could add copyright info to footer
+A media query could be added to the Resources page, giving a more appealing layout on large screens.
+
+All bootstrap buttons could be styled futher and potentially replaced with javascript elements.
+
+Navbar links should have hover effects added. I would do it now, but I don't want to break anything. 
+
+Really should add copyright info to footer.
 
 
 ## Credits  
@@ -231,3 +239,7 @@ Code for the Tips section carousel was taken from Bootstrap via [W3Schools](http
 Information on accessibility from [W3School's Accessibility Tutorial](https://www.w3schools.com/accessibility/index.php)
 
 Information about best practices for links from Adrian Roselli's [Link Targets and 3.2.5](https://adrianroselli.com/2020/02/link-targets-and-3-2-5.html)
+
+Huge thanks to everyone on the WMCA Bootcamp, my fellow junior devs and the awesome facilitators, coaches and staff at Code Institute! 
+
+Special thanks to my mom for following feedback on deployed site: "Oh, it looks like a *real* website."
