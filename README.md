@@ -156,7 +156,11 @@ Lighthouse testing found significant room for improvement. Accessibility was a p
 
 ![Screenshot of initial Lighthouse report](/docs/lighthouse01.png)
 
-aria labels and roles were added to bootstrap buttons in hopes of providing better accessibility.
+Aria labels and roles were added to bootstrap buttons in hopes of providing better accessibility. Subsequent testing showed 100% accessibility. 
+
+![Screenshot of second Lighthouse report](/docs/lighthouse02.png)
+
+Lighthouse suggested that improvements could be made regarding performance, this is a potential future improvement.
 
 
 
