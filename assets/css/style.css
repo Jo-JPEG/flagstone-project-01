@@ -166,7 +166,7 @@ header a {
 #welcome {
     height: 600px;
     width: 100%;
-    background: url(../images/hero.webp) no-repeat center center/cover;
+    background: url(../images/hero01.webp) no-repeat center center/cover;
     background-color: var(--secondary-color);
     position: relative;
 }
