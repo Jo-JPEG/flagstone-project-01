@@ -131,6 +131,15 @@ Wireframe - Homepage Desktop
 
 ## testing
 
+For testing multiple resources were used:
+
+1. [Chrome Dev Tools - Lighthouse](https://developers.google.com/web/tools/lighthouse/)
+2. [W3 Markup Validation Service](https://validator.w3.org/)
+3. [W3 CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+
+![screenshot of errors](/docs/HTML-errors01.png)
+
+![sreenshot of after errors fixed](/docs/all-better01.png)
 ## Credits  
 
 The initial logo, welcome text, key concept definitions, and inclusivity tips were generated with Copilot.
