@@ -4,7 +4,7 @@
 
 ### HTML/CSS/Bootstrap Individual Project
 
-![Site example on multiple devices.]()
+![Site example on multiple devices.](/docs/Wowsoresponsive.png)
 
 [Click Here to view the Live Project.](https://jo-jpeg.github.io/flagstone-project-01/)
 
@@ -114,7 +114,11 @@ Wireframe - Homepage Desktop
 
 ## Colours
 
-[Coolers](docs/Diverse Universe Project.png)
+Colours were implemented using CSS variables so that the site can be updated with new colour schemes with ease. The final Colour palette was created using [Coolors](https://coolors.co/)
+
+All colours were reviewed for aesthetic appeal and high contrast, allowing easily readible text. 
+
+![Coolors palette showing DUP colour scheme](/docs/Diverse%20Universe%20Project.png)
 
 ## Technologies
 
@@ -126,8 +130,13 @@ Wireframe - Homepage Desktop
 
 ### Other tech used:
 
-- [Bootstrap]()
-- [Copilot]()
+- [Bootstrap 5](https://getbootstrap.com/)
+- [Microsoft Copilot](https://copilot.microsoft.com/)
+
+Bootstrap was implimented and then removed early on in the project. It was then re-introduced in a limited capacity to enable the easy implimentation of togglible sections to hide and reveal information sections, in additon to a carousel of slides with captions. The default styles were overwritten using custom CSS to ensure a consistent style throughout. 
+
+Copilot was tested for generating HTML and CSS but was utimatly rejected as manual code editing was found to be more efficient. 
+The technology has future potential in adding additional pages quickly. This will require futher testing and research that is outside the scope of the current project timeframe.
 
 ## testing
 
