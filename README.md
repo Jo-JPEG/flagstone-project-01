@@ -120,6 +120,25 @@ All colours were reviewed for aesthetic appeal and high contrast, allowing easil
 
 ![Coolors palette showing DUP colour scheme](/docs/Diverse%20Universe%20Project.png)
 
+## Fonts 
+
+Fonts used were Rubik, Space Mono, and Silkscreen from [Google Fonts](https://fonts.google.com/)
+
+The fonts were chosen to give the site an interesting, thematically consistent, overall look. The fonts were implemented using CSS variables, allowing for easy future updates and changes. Primary font was chosen for easy readibility. Secondary font was chosen to compliment main font and provide distinct styling to headings. 
+The "brand font" was chosen to suggest a space theme and make the Diverse Universe Project name pop visually and compliment the logo and favicon.
+
+## Logo 
+
+Initial logo was generated using copilot. It was resized and used as a placeholder for initial deployment.
+
+Initial Logo:
+![First logo](/assets/images/logosmall.png)
+
+After feedback, the logo was then altered manually in Firealpaca to create a transparent background, make the colours match the chosen colour scheme and be able to adjust size for different screen sizes in a smooth way. 
+
+Deployed Logo:
+![Logo as deployed](/assets/images/logo-textless.png)
+
 ## Technologies
 
 ### Languages used:
@@ -151,6 +170,8 @@ HTML was tested and some initial errors were discovered and corrected.
 
 All errors with HTML were addressed.
 ![sreenshot of after errors fixed](/docs/all-better01.png)
+
+CSS was tested and no errors were found. There were 442 warnings, mainly due to external stylesheets being used and the use of variables. 
 
 Lighthouse testing found significant room for improvement. Accessibility was a particular point of potential improvement.
 
