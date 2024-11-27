@@ -21,7 +21,7 @@
  * [Technologies](#technologies)
  * [Testing](#testing)
  * [Known bugs](#known-bugs)
- * [Future Scope](#future-scope)
+ * [Future features](#future-scope)
  * [Credits](#credits)
 
 
@@ -193,7 +193,7 @@ Lighthouse suggested that improvements could be made regarding performance, this
 
 Social links to not respond to hover on mobile layout. This may be because you can't hover on stuff on a mobile. Futher research needed.
 
-## Future-Scope
+## Future Features
 
 In future updates, more content could be added including more links to the Resources page. 
 
@@ -204,7 +204,7 @@ Navbar links could have hover effects added. I would do it now but I don't want 
 
 ## Credits  
 
-The initial logo, welcome text, key concept definitions, and inclusivity tips were generated with Copilot.
+The initial logo, welcome text, key concept definitions, and inclusivity tips were generated with Microsoft Copilot.
 
 The hero image is a photo by [Vonecia Carswell](https://unsplash.com/@voneciacarswell?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/four-person-holding-each-others-waist-at-daytime-0aMMMUjiiEQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) 
 
@@ -213,6 +213,10 @@ The images for the tips carousel are by [fauxels](https://www.pexels.com/@fauxel
 Images were converted for web using [Compress or Die](https://compress-or-die.com/)
 
 The Favicon was created using [Favicon.io](https://favicon.io/favicon-generator/)
+
+Icons for social media and navbar from [Font Awesome](https://fontawesome.com/)
+
+Multi-device view image created via [Am I responsive?](https://ui.dev/amiresponsive)
 
 Code for the collapsible nav bar was taken from the [Code Institute Love Running Project](https://learn.codeinstitute.net).
 
