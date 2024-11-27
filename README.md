@@ -20,6 +20,8 @@
  * [Logo](#logo)
  * [Technologies](#technologies)
  * [Testing](#testing)
+ * [Known bugs](#known-bugs)
+ * [Future Scope](#future-scope)
  * [Credits](#credits)
 
 
@@ -187,7 +189,17 @@ Aria labels and roles were added to bootstrap buttons in hopes of providing bett
 
 Lighthouse suggested that improvements could be made regarding performance, this is a potential future improvement.
 
+## Known bugs
 
+Social links to not respond to hover on mobile layout. This may be because you can't hover on stuff on a mobile. Futher research needed.
+
+## Future-Scope
+
+In future updates, more content could be added including more links to the Resources page. 
+
+A media query could be added to the Resources page, giving a more appealing layout on large screens. 
+
+Navbar links could have hover effects added. I would do it now but I don't want to break anything. 
 
 
 ## Credits  
@@ -202,10 +214,12 @@ Images were converted for web using [Compress or Die](https://compress-or-die.co
 
 The Favicon was created using [Favicon.io](https://favicon.io/favicon-generator/)
 
-Code for the collapsible nav bar was taken from the Code Institute Love Running Project.
+Code for the collapsible nav bar was taken from the [Code Institute Love Running Project](https://learn.codeinstitute.net).
 
-Code for collapsible buttons was taken from Bootstrap documentation. 
+Code for collapsible buttons was taken from [Bootstrap documentation](https://getbootstrap.com/docs/5.3/components/collapse/). 
 
-Code for the Tips section carousel was taken from Bootstrap via W3Schools.
+Code for the Tips section carousel was taken from Bootstrap via [W3Schools](https://www.w3schools.com/bootstrap5/bootstrap_carousel.php).
 
+Information on accessibility from [W3School's Accessibility Tutorial](https://www.w3schools.com/accessibility/index.php)
 
+Information about best practices for links from Adrian Roselli's [Link Targets and 3.2.5](https://adrianroselli.com/2020/02/link-targets-and-3-2-5.html)
