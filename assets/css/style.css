@@ -215,23 +215,18 @@ header a {
 footer {
     background-color: var(--pop-color);
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
 }
 
-#contact {
-    display: flex;
-    padding: 10px;
-    margin-left: 6px;
-    flex-direction: column;
-    color: var(--text-color-alt);
-}
 
 #social-networks {
     text-align: center;
     padding: 20px 0;
+    margin: 10px 0;
     display: flex;
-    justify-content: flex-end;
+    justify-content: space-around;
     list-style-type: none;
+    min-width: 300px;
 }
 
 #social-networks li {
@@ -292,7 +287,7 @@ footer {
         #logo-text {
             font-family: var(--brand-font);
             display: flex;
-            font-size: 160%;
+            font-size: 190%;
             margin-top: 16px;
         }
 
@@ -322,5 +317,13 @@ footer {
             /* min-height: 300px; */
             display: flex;
             align-self: center;
+        }
+
+        footer {
+            justify-content: flex-end;
+        }
+
+        #social-networks i {
+            font-size: 190%;
         }
   }
